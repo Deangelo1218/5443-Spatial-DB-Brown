@@ -69,6 +69,16 @@ app = FastAPI(
     },
 )
 
+"""
+           _____ _____   _____ _   _ ______ ____
+     /\   |  __ \_   _| |_   _| \ | |  ____/ __ \
+    /  \  | |__) || |     | | |  \| | |__ | |  | |
+   / /\ \ |  ___/ | |     | | | . ` |  __|| |  | |
+  / ____ \| |    _| |_   _| |_| |\  | |   | |__| |
+ /_/    \_\_|   |_____| |_____|_| \_|_|    \____/
+
+"""
+
 
 @app.get("/")
 async def docs_redirect():
@@ -148,9 +158,9 @@ async def findState(state):
 
 @app.get("/closest/")
 async def findClosest(lat: float , lng: float):
-    sql = f"""SELECT *, ST_Distance('SRID=4326;POINT({lng} {lat})'::geometry, location) 
+    sql = f"""SELECT *, ST_Distance('SRID=4326;POINT({lng} {lat})'::geometry, location) AS distance
                         FROM aliens
-                        ORDER BY id LIMIT 10;"""
+                        ORDER BY distance LIMIT 1;"""
 
     with DatabaseCursor(".config.json") as cur:
         cur.execute(sql)

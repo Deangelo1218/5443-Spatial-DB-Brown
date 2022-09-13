@@ -10,18 +10,18 @@
 ### Api:
 
 > -Have a local api that has the following routes:
-    > - findAll
-    > - findOne
-    > - findClosest
+> - findAll
+> - findOne
+> - findClosest
 
 > - findAll
-    > - Returns all the tuples from your table.
+> - Returns all the tuples from your table.
 
 > - findOne
-    > - Returns a single tuple based on a column name (attribute) and value (e.g id=1299 , or name=texas).
+> - Returns a single tuple based on a column name (attribute) and value (e.g id=1299 , or name=texas).
 
 > - findClosest
-    > - Returns a single tuple which contains the closest geometry to the one passed in (e.g. lon=-123.63454&lat=34.74645).
+> - Returns a single tuple which contains the closest geometry to the one passed in (e.g. lon=-123.63454&lat=34.74645).
 
 
 ### Files
