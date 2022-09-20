@@ -9,7 +9,7 @@
 
 ### Api:
 
-> -Have a local api that has the following routes:
+> - Have a local api that has the following routes:
 > - findAll
 > - findOne
 > - findClosest
