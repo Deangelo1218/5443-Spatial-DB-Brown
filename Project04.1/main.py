@@ -419,7 +419,7 @@ with DatabaseCursor(".config.json") as cur:
         final_product["ship_status"].append({"ship_id": answer[0], "bearing": bearings, "location": {"lon": json.loads(answer[1])["coordinates"][0], "lat":json.loads(answer[1])["coordinates"][1]}})
 
     #Prints results to json file
-    with open("final_product.json", "w") as file:
+    with open("final_product1.json", "w") as file:
         json.dump(final_product, file, indent=4)
     
 

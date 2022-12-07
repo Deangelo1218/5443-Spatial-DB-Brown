@@ -1,0 +1,213 @@
+{
+    "fleet_id": "Poseidon",
+    "ship_status": [
+        {
+            "ship_id": 22,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.675686,
+                "lat": 48.882484
+            }
+        },
+        {
+            "ship_id": 23,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.675686,
+                "lat": 48.882184
+            }
+        },
+        {
+            "ship_id": 0,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.670686,
+                "lat": 48.882284
+            }
+        },
+        {
+            "ship_id": 1,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.670686,
+                "lat": 48.882384
+            }
+        },
+        {
+            "ship_id": 7,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.671686,
+                "lat": 48.882184
+            }
+        },
+        {
+            "ship_id": 8,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.672686,
+                "lat": 48.882284
+            }
+        },
+        {
+            "ship_id": 9,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.672686,
+                "lat": 48.882384
+            }
+        },
+        {
+            "ship_id": 10,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.672686,
+                "lat": 48.882484
+            }
+        },
+        {
+            "ship_id": 11,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.672686,
+                "lat": 48.882184
+            }
+        },
+        {
+            "ship_id": 12,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.673686,
+                "lat": 48.882284
+            }
+        },
+        {
+            "ship_id": 14,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.673686,
+                "lat": 48.882484
+            }
+        },
+        {
+            "ship_id": 15,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.673686,
+                "lat": 48.882184
+            }
+        },
+        {
+            "ship_id": 16,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.674686,
+                "lat": 48.882284
+            }
+        },
+        {
+            "ship_id": 17,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.674686,
+                "lat": 48.882384
+            }
+        },
+        {
+            "ship_id": 18,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.674686,
+                "lat": 48.882484
+            }
+        },
+        {
+            "ship_id": 19,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.674686,
+                "lat": 48.882184
+            }
+        },
+        {
+            "ship_id": 20,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.675686,
+                "lat": 48.882284
+            }
+        },
+        {
+            "ship_id": 3,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.670686,
+                "lat": 48.882184
+            }
+        },
+        {
+            "ship_id": 24,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.676686,
+                "lat": 48.882284
+            }
+        },
+        {
+            "ship_id": 2,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.670686,
+                "lat": 48.882484
+            }
+        },
+        {
+            "ship_id": 25,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.676686,
+                "lat": 48.882384
+            }
+        },
+        {
+            "ship_id": 13,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.673686,
+                "lat": 48.882384
+            }
+        },
+        {
+            "ship_id": 4,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.671686,
+                "lat": 48.882284
+            }
+        },
+        {
+            "ship_id": 5,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.671686,
+                "lat": 48.882384
+            }
+        },
+        {
+            "ship_id": 6,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.671686,
+                "lat": 48.882484
+            }
+        },
+        {
+            "ship_id": 21,
+            "bearing": 348.75,
+            "location": {
+                "lon": -8.675686,
+                "lat": 48.882384
+            }
+        }
+    ]
+}
